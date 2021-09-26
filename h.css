@@ -1,0 +1,15 @@
+html{
+  background:url("IGNITEIMG/j.gif")repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  }
+
+a:link {color:white;}
+a:visited {color: white;}
+a:hover {color: red;}
+a:active {color: white}
+
+p,h1,h2{
+	color:white;
+	}
+
